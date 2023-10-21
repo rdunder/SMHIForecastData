@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmhiDataLibrary", "Libraries\SmhiDataLibrary\SmhiDataLibrary.csproj", "{51C9BC47-9F37-4A12-9747-1F240305A7AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CLI", "UI\CLI\CLI.csproj", "{8020FB89-DDC4-483D-B88B-A0DA2D6104C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51C9BC47-9F37-4A12-9747-1F240305A7AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C9BC47-9F37-4A12-9747-1F240305A7AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C9BC47-9F37-4A12-9747-1F240305A7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C9BC47-9F37-4A12-9747-1F240305A7AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8020FB89-DDC4-483D-B88B-A0DA2D6104C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8020FB89-DDC4-483D-B88B-A0DA2D6104C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8020FB89-DDC4-483D-B88B-A0DA2D6104C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8020FB89-DDC4-483D-B88B-A0DA2D6104C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9F34C55-BB20-4052-884A-ED018C211452}
+	EndGlobalSection
+EndGlobal
